@@ -1,0 +1,17 @@
+#button-1 {
+  font-size: 20px;
+  padding: 10px 14px;
+  border: none;
+  background-color: rgb(122, 56, 180);
+  border-radius: 50px;
+  color: white;
+  margin-top: 20px;
+}
+
+#joke {
+  font-size: 18px;
+  font-weight: 800;
+  color: rgb(61, 12, 107);
+  margin-top: 20px;
+  margin-left: 50px;
+}
